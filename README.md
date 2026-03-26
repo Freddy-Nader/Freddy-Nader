@@ -28,6 +28,7 @@
 
 ## Latest Projects
 
+- **[Personal Portfolio](https://anader.xyz)** - Personal portfolio page.
 - **[estudio.so](https://estudio.so)** - Platform that ensures teachers teach easier and their students learn better.
 - **[Personal-Finances](https://github.com/Freddy-Nader/Personal-Finances)** - Clean Next.js dashboard that helps managing personal finances.
 - **[Partitions](https://arxiv.org/abs/2401.04026)** - I developed a one-of-its-kind closed-form formula for the partition function and [published](https://arxiv.org/abs/2401.04026) a paper about it.
