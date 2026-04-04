@@ -28,19 +28,20 @@
 
 ## Latest Projects
 
-- **[Personal Portfolio](https://anader.xyz)** - Personal portfolio page.
-- **[estudio.so](https://estudio.so)** - Platform that ensures teachers teach easier and their students learn better.
-- **[Personal-Finances](https://github.com/Freddy-Nader/Personal-Finances)** - Clean Next.js dashboard that helps managing personal finances.
-- **[Partitions](https://arxiv.org/abs/2401.04026)** - I developed a one-of-its-kind closed-form formula for the partition function and [published](https://arxiv.org/abs/2401.04026) a paper about it.
+- 💼 **[Personal Portfolio](https://anader.xyz)** - Personal portfolio page.
+- 🎓 **[estudio.so](https://estudio.so)** - Platform that ensures teachers teach easier and their students learn better.
+- 💰 **[Personal-Finances](https://github.com/Freddy-Nader/Personal-Finances)** - Clean Next.js dashboard that helps managing personal finances.
+- ❓ **[Guess Who?](https://github.com/Freddy-Nader/guess-who)** - Guess Who? game written in GAMBAS and in Spanish.
+- ➕ **[Partitions](https://arxiv.org/abs/2401.04026)** - I developed a one-of-its-kind closed-form formula for the partition function and [published](https://arxiv.org/abs/2401.04026) a paper about it.
 
 ## Works in Progress
 
-- **Ampl** - Most GenAI models in a single suit. 
-- **Homeworker** - Workflow that completes and helps with homework assignments. 
-- **data2pres** - Engine that converts data and insights into beautiful presentations. 
-- **OSS Scraper** - The input is a goal or idea, the output are projects that already solved that problem or a similar problem. 
-- **Habiter** - A difficult part of making habits is knowing when, where, and at what times they have to be made. Habiter makes this easier. 
-- **BarGroups** - MacOS application that allows users to group different menu bar items, so everything is less cluttered. 
+- 🤖 **Ampl** - Most GenAI models in a single suit. 
+- 🧑‍💻 **HomeWorker** - Workflow that completes and helps with homework assignments. 
+- 💻 **data2pres** - Engine that converts data and insights into beautiful presentations. 
+- 📝 **OSS Scraper** - The input is a goal or idea, the output are projects that already solved that problem or a similar problem. 
+- 💪 **Habiter** - A difficult part of making habits is knowing when, where, and at what times they have to be made. Habiter makes this easier. 
+- 🔝 **BarGroups** - MacOS application that allows users to group different menu bar items, so everything is less cluttered. 
 
 ## GitHub Activity
 
