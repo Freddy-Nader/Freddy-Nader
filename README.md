@@ -36,7 +36,6 @@
 
 ## Works in Progress
 
-- 🤖 **Ampl** - Most GenAI models in a single suit. 
 - 🧑‍💻 **HomeWorker** - Workflow that completes and helps with homework assignments. 
 - 💻 **data2pres** - Engine that converts data and insights into beautiful presentations. 
 - 📝 **OSS Scraper** - The input is a goal or idea, the output are projects that already solved that problem or a similar problem. 
